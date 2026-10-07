@@ -1,0 +1,7 @@
+User-Agent: *
+Allow: /
+Disallow: /caseflow/
+Disallow: /dispatchgrid/
+Disallow: /relateai/
+
+Sitemap: https://amrsamy203.github.io/sitemap.xml
